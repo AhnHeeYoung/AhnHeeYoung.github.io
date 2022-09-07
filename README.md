@@ -1,3 +1,12 @@
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Artificial Intelligence-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Computer Science-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Machine Learning-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
+
+
 ## moonwalk - a fast and minimalistic blog theme with clean dark mode
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
